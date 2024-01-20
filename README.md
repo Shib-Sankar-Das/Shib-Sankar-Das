@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shib Sankar Das</h1>
 <h3 align="center">Coding, Hardware, and Tech Adventures 🚀 | Robotics & AI Enthusiast |</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Shib-Sankar-Das/Shib-Sankar-Das/blob/main/Coding%20GIF.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Shib-Sankar-Das/Shib-Sankar-Das/blob/main/final.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shib-sankar-das&label=Profile%20views&color=0e75b6&style=flat" alt="shib-sankar-das" /> </p>
 
 - 👨‍💻 Crafting Dreams: Unveiling My Creative Odyssey in this [Portfolio](https://understood-island-cloche.glitch.me/#home).
