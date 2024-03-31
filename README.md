@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="350" src="https://github.com/Shib-Sankar-Das/Shib-Sankar-Das/blob/main/final.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shib-sankar-das&label=Profile%20views&color=0e75b6&style=flat" alt="shib-sankar-das" /> </p>
 
-- 👨‍💻 Crafting Dreams: Unveiling My Creative Odyssey in this [Portfolio](https://understood-island-cloche.glitch.me/#home).
+- 👨‍💻 Crafting Dreams: Unveiling My Creative Odyssey in this [Portfolio](https://shib-sankar-das-portfolio.netlify.app/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
